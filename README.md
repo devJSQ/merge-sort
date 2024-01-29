@@ -7,11 +7,11 @@ In this project, we will cover the fundamentals of the `Merge Sort Algorithm`, a
 
 ### Problem
 
-Returns a sorted array for `[66,22,33,11,44]` using the Merge sort methodology.
+Returns a sorted array for `[66,22,33,11,44]` using the Merge sort Algorithm.
 
 ### Implementation
 
-Build a method `mergeSort` that takes an array, returns a sorted array, and prints it in the main method.
+Build a method `mergeSort` that takes an array, and returns a sorted array, and prints it in the main method.
 
 ```java
 
