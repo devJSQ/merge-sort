@@ -3,7 +3,7 @@
 
 ### Objective
 
-In this project, we will cover the fundamentals of the `Merge Sort Algorithm`, and its operations.
+In this project, we will cover the fundamentals of the `Merge Sort Algorithm`.
 
 ### Problem
 
